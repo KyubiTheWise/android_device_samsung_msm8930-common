@@ -1,6 +1,6 @@
 [
   {
-    "repository": "external_stlport",
+    "repository": "android_external_stlport",
     "target_path": "external/stlport"
   }
 ]
