@@ -56,6 +56,7 @@ PRODUCT_PACKAGES += \
     libmm-omxcore \
     libOmxCore \
     libOmxVenc \
+    libOmxVdec \
     libOmxAacEnc \
     libOmxAmrEnc \
     libOmxEvrcEnc \
